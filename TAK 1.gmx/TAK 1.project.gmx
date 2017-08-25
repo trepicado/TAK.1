@@ -7,7 +7,9 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\blocograma</sprite>
-    <sprite>sprites\personagemparado</sprite>
+    <sprite>sprites\Char_paradoDireita</sprite>
+    <sprite>sprites\Char_paradoEsquerda</sprite>
+    <sprite>sprites\Char_inicio_Pulo</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -18,6 +20,7 @@
     <object>objects\personagem_obj</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\Level_set</room>
     <room>rooms\Level_teste</room>
   </rooms>
   <help>
